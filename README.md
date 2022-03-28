@@ -5,7 +5,7 @@
 - 📫 How to reach me ... email jawacaser@gmail.com
 
 - Check out my CodePen profile here: www.codepen.io/jawacaser
-- Find me on LinkedIn: www.linkedin.com/li/andrew-wacaser
+- Find me on LinkedIn: www.linkedin.com/in/andrew-wacaser
 <!---
 jawacaser/jawacaser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
