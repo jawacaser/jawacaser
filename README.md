@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on something small, just for fun
 - 📫 How to reach me ... email jawacaser@gmail.com
 
+- This is my freeCodeCamp profile: https://www.freecodecamp.org/jawacaser
 - Check out my CodePen profile here: www.codepen.io/jawacaser
 - Find me on LinkedIn: www.linkedin.com/in/andrew-wacaser
 <!---
