@@ -5,7 +5,7 @@
 
 **Full Stack Developer: Ruby on Rails | React**
 
-I currently work for the *Texas State University - School Safety Center* as a **Programmer Analyst** (2022 - present).
+*Texas State University - School Safety Center* **Programmer Analyst** (2022 - present).
 
 Most of my work has involved rewriting and upgrading legacy web applications.  I enjoy the problem-solving aspect of revamping older applications and giving them new life in the constantly evolving world of tech.  
 
